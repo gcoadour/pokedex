@@ -23,7 +23,8 @@ Celui-ci aura comme fonctionnalitées:
 - D’être responsive
 
 Intégrer la maquette suivante: 
-￼![](https://github.com//gcoadour/pokedex/raw/master/img/maquette.png)
+
+![](https://github.com/gcoadour/pokedex/blob/870e7748dfd53b51375405c45d4435a739c18a0b/maquette.png)
 
 Attention: Pour cela vous aurez comme contrainte devoir utiliser les composants Angular Material (https://material.angular.io/guide/getting-started) 
 ET la programmation réactive (Observable et/ou Signal).
